@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Lucius/CLionProjects/Izuchaem Cpp cherez programmirovanie igr/Chapter 1/3 GameStats3/main.cpp
+iostream
+-
+

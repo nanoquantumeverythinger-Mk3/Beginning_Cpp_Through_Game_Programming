@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Lucius/CLionProjects/Izuchaem Cpp cherez programmirovanie igr/Chapter 3/2 StringTester/main.cpp
+iostream
+-
+string
+-
+

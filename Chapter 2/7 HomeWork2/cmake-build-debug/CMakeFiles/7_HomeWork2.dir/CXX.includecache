@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Lucius/CLionProjects/Izuchaem Cpp cherez programmirovanie igr/Chapter 2/7 HomeWork2/main.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+limits
+-
+

@@ -1,0 +1,3 @@
+C:/Users/Lucius/CLionProjects/Izuchaem Cpp cherez programmirovanie igr/Chapter 2/2 DieRoller/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lucius/CLionProjects/Izuchaem Cpp cherez programmirovanie igr/Chapter 2/2 DieRoller/cmake-build-debug/CMakeFiles/2_DieRoller.dir
+C:/Users/Lucius/CLionProjects/Izuchaem Cpp cherez programmirovanie igr/Chapter 2/2 DieRoller/cmake-build-debug/CMakeFiles/rebuild_cache.dir
