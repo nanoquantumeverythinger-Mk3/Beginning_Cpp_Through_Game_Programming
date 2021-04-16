@@ -1,0 +1,3 @@
+C:/Users/Lucius/CLionProjects/Izuchaem Cpp cherez programmirovanie igr/Chapter 3/3 HerosInventory/cmake-build-debug/CMakeFiles/3_HerosInventory.dir
+C:/Users/Lucius/CLionProjects/Izuchaem Cpp cherez programmirovanie igr/Chapter 3/3 HerosInventory/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lucius/CLionProjects/Izuchaem Cpp cherez programmirovanie igr/Chapter 3/3 HerosInventory/cmake-build-debug/CMakeFiles/rebuild_cache.dir
