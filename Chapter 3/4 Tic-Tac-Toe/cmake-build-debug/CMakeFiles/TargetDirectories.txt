@@ -1,0 +1,3 @@
+C:/Users/Lucius/CLionProjects/Izuchaem Cpp cherez programmirovanie igr/Chapter 3/4 Tic-Tac-Toe/cmake-build-debug/CMakeFiles/4_Tic_Tac_Toe.dir
+C:/Users/Lucius/CLionProjects/Izuchaem Cpp cherez programmirovanie igr/Chapter 3/4 Tic-Tac-Toe/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lucius/CLionProjects/Izuchaem Cpp cherez programmirovanie igr/Chapter 3/4 Tic-Tac-Toe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
